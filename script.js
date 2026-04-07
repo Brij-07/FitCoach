@@ -30,7 +30,7 @@ return text
 
 async function askAI(prompt){
 
-const response = await fetch("/ask",{
+const response = await fetch("https://fitcoach-production-175d.up.railway.app/ask",{
 
 method:"POST",
 
