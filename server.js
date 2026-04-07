@@ -151,7 +151,7 @@ contents: chatHistory,
 generationConfig:{
 temperature:0.7,
 topP:0.9,
-maxOutputTokens:2500
+maxOutputTokens:1000
 }
 
 })
